@@ -2,7 +2,7 @@
 
 Welcome to my repository  🙋‍♀️
 
-- 🔭 I'm currently working at Falabella in the business intelligence area. (trainee)
+- 🔭 I'm currently working at Falabella in business intelligence area. (trainee)
 - 🌱 I'm currently learning React
 - ❤️ I love Frontend  
 - 📚 I want to reach new goals
