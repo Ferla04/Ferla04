@@ -1,4 +1,4 @@
-### Hi! I'm Fernanda velásquez 🌈✨
+### Hi! I'm Fernanda Velásquez 🌈✨
 
 Welcome to my repository  🙋‍♀️
 
