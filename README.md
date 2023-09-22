@@ -8,8 +8,10 @@ Welcome to my repository  🙋‍♀️
 - 😄 Pronouns: she/her
 
 <div align="center">
-  <img  style="pointer-events: none;" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferla04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img  style="pointer-events: none;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferla04&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Ferla04">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferla04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferla04&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
   
