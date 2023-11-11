@@ -5,7 +5,6 @@ Welcome to my repository  🙋‍♀️
 - 🔭 I'm currently working at Cosmoteca
 - ❤️ I love Frontend  
 - 📚 I want to reach new goals
-- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/Ferla04">
