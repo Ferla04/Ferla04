@@ -2,7 +2,7 @@
 
 Welcome to my repository  🙋‍♀️
 
-- 🔭 I'm currently working at Cosmoteca
+- 🔭 I'm currently working at Coltrack
 - ❤️ I love Frontend  
 - 📚 I want to reach new goals
 
